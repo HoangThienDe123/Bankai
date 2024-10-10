@@ -1,0 +1,25 @@
+body a{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+body a:hover{
+    color: darkviolet;
+}
+p{
+    font-size: 20px;
+    margin-top: 1px;
+   
+}
+body{
+    background-image: url("./anh/677283.jpg");
+    background-size: cover;
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 20px; 
+    color: white;
+}
+header{
+    font-size: 20px;
+}
